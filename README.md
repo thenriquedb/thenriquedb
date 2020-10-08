@@ -45,6 +45,6 @@ const dev = SoftwareEnginner(thiago);
 
 ### :nerd_face: Talk to me!
 
-📫 [LinkedIn](https://www.linkedin.com/in/thenriquedomingues/) <space><space>
-:computer:[Personal Site](https://thiagodomingues.netlify.app/)<space><space>
+📫 [LinkedIn](https://www.linkedin.com/in/thenriquedomingues/) \
+:computer:[Personal Site](https://thiagodomingues.netlify.app/) \
 :email: <thenrique2012@gmail.com>
