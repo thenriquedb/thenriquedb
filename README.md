@@ -16,8 +16,6 @@ const thiago = {
       endAt: 2021
     },
 
-    goals: ["TypeScript", "Tests","Design Patterns", "UX", "UI"],
-
     technologies: {
         languages: ["js", "python"],
         mobileApp: ["React Native"],
@@ -33,6 +31,9 @@ const thiago = {
       },
 
       tools: ["Docker", "Figma"],
+      
+      goals: ["TypeScript", "Tests","Design Patterns", "UX", "UI"],
+
     }
 };
 
