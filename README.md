@@ -16,9 +16,7 @@ const thiago = {
       endAt: 2021
     },
 
-    goals: ["TypeScript", "Tests","Design Patterns", "UX", "UI"]
-
-    jobs: ["feedlover", "freelancer"],
+    goals: ["TypeScript", "Tests","Design Patterns", "UX", "UI"],
 
     technologies: {
         languages: ["js", "python"],
