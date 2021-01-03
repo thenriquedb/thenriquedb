@@ -38,9 +38,6 @@ const thiago = {
 };
 
 const dev = SoftwareEnginner(thiago);
-```
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=thenriquedb&show_icons=true&title_color=fe2889&icon_color=fe2889&text_color=666&bg_color=fffff)
 
 ### :nerd_face: Talk to me!
 
