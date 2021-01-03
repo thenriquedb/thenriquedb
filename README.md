@@ -38,8 +38,11 @@ const thiago = {
 };
 
 const dev = SoftwareEnginner(thiago);
+```
 
-Talk to me!
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=thenriquedb&show_icons=true&title_color=fe2889&icon_color=fe2889&text_color=666&bg_color=fffff)
+
+### :nerd_face: Talk to me!
 
 📫 [LinkedIn](https://www.linkedin.com/in/thenriquedomingues/) \
 :computer:[Personal Site](https://thiagodomingues.netlify.app/) \
