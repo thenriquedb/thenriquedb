@@ -39,7 +39,7 @@ const thiago = {
 
 const dev = SoftwareEnginner(thiago);
 
-### :nerd_face: Talk to me!
+Talk to me!
 
 📫 [LinkedIn](https://www.linkedin.com/in/thenriquedomingues/) \
 :computer:[Personal Site](https://thiagodomingues.netlify.app/) \
