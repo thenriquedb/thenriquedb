@@ -5,7 +5,7 @@ Estudante de Ciência da Computação e desenvolvedor front-end apaixonado em cr
 
 Sou um grande entusiasta da linguagem JavaScript e em otimização de performance em aplicações web, estou sempre buscando deixar minhas aplicações o mais fluídas possível.
 
-> Ciência da computação tem tanto a ver com o computador como a Astronomia com o telescópio. A Ciência não estuda ferramentas, mas o que fazemos e o que descobrimos com elas. – Edsger Dijkstra
+> Ciência da computação tem tanto a ver com o computador como a Astronomia com o telescópio, a Biologia com o microscópio, ou a Química com os tubos de ensaio. A Ciência não estuda ferramentas, mas o que fazemos e o que descobrimos com elas.- Edsger Dijkstra
 
 <!-- ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=thenriquedb&show_icons=true&title_color=fe2889&icon_color=fe2889&text_color=666&bg_color=fffff) -->
 
