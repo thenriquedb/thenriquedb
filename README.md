@@ -12,6 +12,6 @@ Sou um grande entusiasta da linguagem JavaScript e em otimização de performanc
 #### :nerd_face: Fale comigo!
 - [Gitlab](https://gitlab.com/thenriquedb) 
 - [LinkedIn](https://www.linkedin.com/in/thenriquedomingues/) 
-- [Personal Site](https://thiagodomingues.netlify.app/) 
+- [Site pessoal](https://thiagodomingues.netlify.app/) 
 - <thenrique2012@gmail.com>
 
