@@ -15,3 +15,5 @@ Sou um grande entusiasta da linguagem JavaScript e em otimização de performanc
 - [Gitlab](https://gitlab.com/thenriquedb) 
 - <thenrique2012@gmail.com>
 
+
+[![thenriquedb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thenriquedb&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
