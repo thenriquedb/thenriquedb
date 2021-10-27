@@ -18,4 +18,3 @@ Sou um grande entusiasta da linguagem JavaScript e em otimização de performanc
 - <thenrique2012@gmail.com>
 
 
-![thenriquedb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thenriquedb&layout=compact&v=2&langs_count=12)
