@@ -4,19 +4,19 @@
 
 ### Olá sou Thiago Henrique:wave:
 <div style="display: inline_block;">
-  <a href="https://www.linkedin.com/in/thenriquedomingues/">
+  <a target=”_blank” href="https://www.linkedin.com/in/thenriquedomingues/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discord">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=37999554632&text=Vi%20seu%20portf%C3%B3lio%20e%20queria%20agendar%20uma%20conversa!">
+  <a target=”_blank” href="https://api.whatsapp.com/send?phone=37999554632&text=Vi%20seu%20portf%C3%B3lio%20e%20queria%20agendar%20uma%20conversa!">
     <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail">
   </a>
-  <a href="mailto:thenrique2012@gmail.com">
+  <a target=”_blank” href="mailto:thenrique2012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://gitlab.com/thenriquedb">
+  <a target=”_blank” href="https://gitlab.com/thenriquedb">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab">
   </a>
-  <a href="https://medium.com/@thenriquedb">
+  <a target=”_blank” href="https://medium.com/@thenriquedb">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 
