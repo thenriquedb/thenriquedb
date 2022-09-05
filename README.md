@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 
-  [![wakatime](https://wakatime.com/badge/user/1a2392dc-040c-488f-8968-2d85b5101131.svg)](https://wakatime.com/@1a2392dc-040c-488f-8968-2d85b5101131)
+<!--  [![wakatime](https://wakatime.com/badge/user/1a2392dc-040c-488f-8968-2d85b5101131.svg)](https://wakatime.com/@1a2392dc-040c-488f-8968-2d85b5101131) -->
 </div>
 
 
-Estudante de Ciência da Computação e desenvolvedor apaixonado em criar aplicações eficientes e agradáveis. Estou sempre buscando escrever código
-seguindo as boas práticas de desenvolvimento com intuito de criar códigos reusáveis e de fácil manutenção. Venho também aperfeiçoando meus
-conhecimentos em desenvolvimento backend e arquitetura e organização de software (POO, design patterns, SOLID).
+- Estudante de Ciência da Computação e desenvolvedor apaixonado em criar aplicações eficientes e agradáveis. 
+- Estou sempre buscando escrever código seguindo as boas práticas de desenvolvimento com intuito de criar códigos reusáveis e de fácil manutenção.  
+- Venho também aperfeiçoando meus conhecimentos em desenvolvimento backend e arquitetura e organização de software (POO, design patterns, SOLID).
 
 
 > Ciência da computação tem tanto a ver com o computador como a Astronomia com o telescópio, a Biologia com o microscópio, ou a Química com os tubos de ensaio. A Ciência não estuda ferramentas, mas o que fazemos e o que descobrimos com elas.- Edsger Dijkstra
