@@ -23,11 +23,9 @@
 <!--  [![wakatime](https://wakatime.com/badge/user/1a2392dc-040c-488f-8968-2d85b5101131.svg)](https://wakatime.com/@1a2392dc-040c-488f-8968-2d85b5101131) -->
 </div> <br />
 
+Sou um apaixonado desenvolvedor com cinco anos de experiência em JavaScript, abrangendo front-end (React), mobile (React Native) e back-end (Node.js). Minha jornada começou em 2018 durante a graduação em Ciências da Computação, e desde então, venho me aprimorando na área de desenvolvimento de software. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas. Estou empenhado em me especializar como desenvolvedor Android nativo e Java.
 
-- Estudante de Ciência da Computação e desenvolvedor apaixonado em criar aplicações eficientes e agradáveis. 
-- Estou sempre buscando escrever código seguindo as boas práticas de desenvolvimento com intuito de criar códigos reusáveis e de fácil manutenção.  
-- Venho também aperfeiçoando meus conhecimentos em desenvolvimento backend e arquitetura e organização de software (POO, design patterns, SOLID).
-
+Tenho experiência em monorepos e na criação de bibliotecas distribuídas via GitHub Registry. Atualmente, estou me aprimorando em engenharia de software, boas práticas, padrões de projeto e testes. Meu objetivo é me especializar como desenvolvedor Android nativo e desenvolvedor Java. Minha paixão pela programação e busca constante pelo aprimoramento me impulsionam em minha carreira.
 
 > Ciência da computação tem tanto a ver com o computador como a Astronomia com o telescópio, a Biologia com o microscópio, ou a Química com os tubos de ensaio. A Ciência não estuda ferramentas, mas o que fazemos e o que descobrimos com elas.- Edsger Dijkstra
 
