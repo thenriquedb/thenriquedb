@@ -24,7 +24,10 @@
 </p>
 <hr>
 <p>Sou um apaixonado desenvolvedor com cinco anos de experiência em JavaScript, abrangendo front-end (React), mobile (React Native) e back-end (Node.js). Minha jornada começou em 2018 durante a graduação em Ciências da Computação, e desde então, venho me aprimorando na área de desenvolvimento de software. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas. Estou empenhado em me especializar como desenvolvedor Android nativo e Java.</p>
-<p>Tenho experiência em monorepos e na criação de bibliotecas distribuídas via GitHub Registry. Atualmente, estou me aprimorando em engenharia de software, boas práticas, padrões de projeto e testes. Meu objetivo é me especializar como desenvolvedor Android nativo e desenvolvedor Java. Minha paixão pela programação e busca constante pelo aprimoramento me impulsionam em minha carreira.</p> ### Tecnologias <div style="display: inline_block;">
+<p>Tenho experiência em monorepos e na criação de bibliotecas distribuídas via GitHub Registry. Atualmente, estou me aprimorando em engenharia de software, boas práticas, padrões de projeto e testes. Meu objetivo é me especializar como desenvolvedor Android nativo e desenvolvedor Java. Minha paixão pela programação e busca constante pelo aprimoramento me impulsionam em minha carreira.</p> 
+
+### Tecnologias 
+<div style="display: inline_block;">
   <div style="display: flex;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
