@@ -23,7 +23,8 @@
   </a>
 </p>
 <hr>
-<p>Sou um apaixonado desenvolvedor com cinco anos de experiência em JavaScript, abrangendo front-end (React), mobile (React Native) e back-end (Node.js). Minha jornada começou em 2018 durante a graduação em Ciências da Computação, e desde então, venho me aprimorando na área de desenvolvimento de software. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas. Estou empenhado em me especializar como desenvolvedor Android nativo e Java.</p>
+<p>Sou um apaixonado desenvolvedor com cinco anos de experiência em JavaScript, abrangendo front-end (React), mobile (React Native) e back-end (Node.js). Minha jornada começou em 2018 durante a graduação em Ciências da Computação, e desde então, venho me aprimorando na área de desenvolvimento de software. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas.</p>
+
 <p>Tenho experiência em monorepos e na criação de bibliotecas distribuídas via GitHub Registry. Atualmente, estou me aprimorando em engenharia de software, boas práticas, padrões de projeto e testes. Meu objetivo é me especializar como desenvolvedor Android nativo e desenvolvedor Java. Minha paixão pela programação e busca constante pelo aprimoramento me impulsionam em minha carreira.</p> 
 
 ### Tecnologias 
