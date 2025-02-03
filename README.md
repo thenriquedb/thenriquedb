@@ -24,16 +24,17 @@
 </p>
 <hr>
 
-<p>  
+<p>
 Bacharel em Ciência da Computação pela Universidade Cruzeiro do Sul, atuando há 5 anos como desenvolvedor, sendo os últimos quatro em uma fintech. Experiência abrangente em todas as áreas do desenvolvimento de software, incluindo front-end com React, mobile com React Native e Expo, onde participei em todas as etapas do ciclo de vida do desenvolvimento de aplicativos, desde a concepção até a publicação nas lojas de aplicativos, e back-end com Node.js. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas.
 </p>
 
-### Tecnologias 
-<div style="display: inline_block;">
-  <div style="display: flex;">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  </div>
-</div>
+<b>Habilidades Técnicas:</b>
+  
+- **Front-end**: React, Next.js, Remix, Redux, Storybook;
+- **Mobile: React** Native e Expo;
+- **Back-end**: Node.js, NestJS, Express
+- **Banco de Dados**: MySQL;
+- **Arquitetura**: Monorepo, BFF (Backend for Frontend), Clean Architecture, APIs REST
+- **Testes**: Jest e React Testing Library.
+
+
