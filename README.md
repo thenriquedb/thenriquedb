@@ -25,7 +25,7 @@
 <hr>
 
 <p>
-Bacharel em Ciência da Computação pela Universidade Cruzeiro do Sul, atuando há 5 anos como desenvolvedor, sendo os últimos quatro em uma fintech. Experiência abrangente em todas as áreas do desenvolvimento de software, incluindo front-end com React, mobile com React Native e Expo, onde participei em todas as etapas do ciclo de vida do desenvolvimento de aplicativos, desde a concepção até a publicação nas lojas de aplicativos, e back-end com Node.js. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas.
+Bacharel em Ciência da Computação, atuando há 5 anos como desenvolvedor, sendo os últimos quatro em uma fintech. Experiência abrangente em todas as áreas do desenvolvimento de software, incluindo front-end com React, mobile com React Native e Expo, onde participei em todas as etapas do ciclo de vida do desenvolvimento de aplicativos, desde a concepção até a publicação nas lojas de aplicativos, e back-end com Node.js. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas.
 </p>
 
 <b>Habilidades Técnicas:</b>
