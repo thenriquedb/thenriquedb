@@ -29,8 +29,7 @@ Bacharel em Ciência da Computação, atuando há 5 anos como desenvolvedor, sen
   
 - **Front-end**: React, Next.js, Remix, Redux, Storybook;
 - **Mobile: React** Native e Expo;
-- **Back-end**: Node.js, NestJS, Express
-- **Banco de Dados**: MySQL;
+- **Back-end**: Node.js, NestJS, Express, Java com Spring Boot;
 - **Arquitetura**: Monorepo, BFF (Backend for Frontend), Clean Architecture, APIs REST
 - **Testes**: Jest e React Testing Library.
 
