@@ -1,9 +1,7 @@
 <h2 align="center">
   <samp>Olá sou Thiago Henrique 👋</samp>
 </h2>
-<h3 align="center">
-  <samp> Desenvolvedor com cinco anos de experiência em JavaScript e TypeScript, abrangendo front-end (React), mobile (React Native) e back-end (Node.js) </samp>
-</h3>
+
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/thenriquedomingues/" target="_blank">
@@ -22,7 +20,7 @@
 <hr>
 
 <p>
-Bacharel em Ciência da Computação, atuando há 5 anos como desenvolvedor, sendo os últimos quatro em uma fintech. Experiência abrangente em todas as áreas do desenvolvimento de software, incluindo front-end com React, mobile com React Native e Expo, onde participei em todas as etapas do ciclo de vida do desenvolvimento de aplicativos, desde a concepção até a publicação nas lojas de aplicativos, e back-end com Node.js. Atualmente, meu foco de estudo está na base da engenharia de software, boas práticas, padrões de projeto, arquitetura de software, testes e áreas correlatas.
+Desenvolvedor de Software com 5 anos de experiência, dos quais 4 foram em uma fintech de benefícios flexíveis, participando do ciclo de vida completo de aplicações. Minha paixão atual é o backend, onde já construo APIs eficientes e seguras com Node.js, NestJS e Express. Estou expandindo minha atuação em Java e Spring Boot, buscando aprofundar minha expertise em sistemas de alta performance. Possuo conhecimento em MySQL, RabbitMQ, monorepos e arquiteturas como BFF e Clean Architecture. Minha experiência prévia em React, React Native e Expo me dá uma visão completa do desenvolvimento de software, facilitando a colaboração em equipes multidisciplinares.
 </p>
 
 <b>Habilidades Técnicas:</b>
@@ -31,6 +29,4 @@ Bacharel em Ciência da Computação, atuando há 5 anos como desenvolvedor, sen
 - **Mobile: React** Native e Expo;
 - **Back-end**: Node.js, NestJS, Express, Java com Spring Boot;
 - **Arquitetura**: Monorepo, BFF (Backend for Frontend), Clean Architecture, APIs REST
-- **Testes**: Jest e React Testing Library.
-
 
