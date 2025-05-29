@@ -2,7 +2,6 @@
   <samp>Olá sou Thiago Henrique 👋</samp>
 </h2>
 
-<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/thenriquedomingues/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
