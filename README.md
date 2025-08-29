@@ -21,7 +21,7 @@ Desenvolvedor de Software com 5 anos de experiência, dos quais 4 foram em uma f
 
 <b>Habilidades Técnicas:</b>
   
-- **Front-end**: React, Next.js, Remix, Redux, Storybook;
+- **Front-end**: React, Next.js, Remix, Redux, Vue, Storybook;
 - **Mobile: React** Native e Expo;
 - **Back-end**: Node.js, NestJS, Express, Java com Spring Boot;
 - **Arquitetura**: Monorepo, BFF (Backend for Frontend), Clean Architecture, APIs REST
